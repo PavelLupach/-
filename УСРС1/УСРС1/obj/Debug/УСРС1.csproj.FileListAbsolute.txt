@@ -1,0 +1,7 @@
+F:\Лабы\УСРС1\УСРС1\bin\Debug\УСРС1.exe.config
+F:\Лабы\УСРС1\УСРС1\bin\Debug\УСРС1.exe
+F:\Лабы\УСРС1\УСРС1\bin\Debug\УСРС1.pdb
+F:\Лабы\УСРС1\УСРС1\obj\Debug\УСРС1.csproj.AssemblyReference.cache
+F:\Лабы\УСРС1\УСРС1\obj\Debug\УСРС1.csproj.CoreCompileInputs.cache
+F:\Лабы\УСРС1\УСРС1\obj\Debug\УСРС1.exe
+F:\Лабы\УСРС1\УСРС1\obj\Debug\УСРС1.pdb
