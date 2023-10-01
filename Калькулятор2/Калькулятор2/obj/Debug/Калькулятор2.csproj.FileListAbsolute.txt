@@ -1,0 +1,7 @@
+C:\Users\777\source\repos\Калькулятор2\Калькулятор2\bin\Debug\Калькулятор2.exe.config
+C:\Users\777\source\repos\Калькулятор2\Калькулятор2\bin\Debug\Калькулятор2.exe
+C:\Users\777\source\repos\Калькулятор2\Калькулятор2\bin\Debug\Калькулятор2.pdb
+C:\Users\777\source\repos\Калькулятор2\Калькулятор2\obj\Debug\Калькулятор2.csproj.AssemblyReference.cache
+C:\Users\777\source\repos\Калькулятор2\Калькулятор2\obj\Debug\Калькулятор2.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\Калькулятор2\Калькулятор2\obj\Debug\Калькулятор2.exe
+C:\Users\777\source\repos\Калькулятор2\Калькулятор2\obj\Debug\Калькулятор2.pdb
